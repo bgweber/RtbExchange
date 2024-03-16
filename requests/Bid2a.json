@@ -1,0 +1,8 @@
+{
+    "seat": "DSP1",
+    "bid": {
+        "auction_id": "123456",
+        "bid_price_cpm": 10.0,
+        "nurl": "http://localhost:8080/nurl/"
+    }
+}
